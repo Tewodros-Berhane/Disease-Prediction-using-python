@@ -1,0 +1,12 @@
+[
+    {
+        "id": "bd7b26b1-038f-4b76-ad2a-d3eb95ac4265",
+        "name": "lighter",
+        "age": "22",
+        "diagnosis_history": [
+            "Allergy",
+            "Arthritis",
+            "Cervical spondylosis"
+        ]
+    }
+]
