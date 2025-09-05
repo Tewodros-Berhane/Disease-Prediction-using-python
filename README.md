@@ -27,7 +27,7 @@ An interactive Python-based machine learning project that predicts diseases from
 │   └── symptom_severity.csv
 ├── user_data.json
 ├── disease_prediction.py   # main script
-
+bash`
 
 ## Requirements
 Python 3.8+
