@@ -27,8 +27,7 @@ An interactive Python-based machine learning project that predicts diseases from
 │   └── symptom_severity.csv
 ├── user_data.json
 ├── disease_prediction.py   # main script
-bash`
-
+```
 ## Requirements
 Python 3.8+
 pandas
@@ -39,19 +38,19 @@ scikit-learn
 ## Install dependencies:
 ```bash
 pip install pandas numpy scikit-learn
-
+```
 Usage
 
 ## Clone the repository
 ```bash
 git clone https://github.com/your-username/disease-prediction-system.git
 cd disease-prediction-system
-
+```
 
 ## Run the program
 ```bash
 python disease_prediction.py
-
+```
 
 ## Follow the prompts
 
@@ -79,7 +78,7 @@ Take following measures:
 2) Take prescribed medication
 3) Rest and stay hydrated
 4) Use mosquito repellent
-
+```
 ## Dataset
 
 **Training.csv / Testing.csv: Contain symptom-disease mappings.
