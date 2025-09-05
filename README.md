@@ -83,8 +83,8 @@ Take following measures:
 ---
 ## Dataset
 
-**Training.csv / Testing.csv: Contain symptom-disease mappings.
-**symptom_Description.csv: Disease descriptions.
-**symptom_severity.csv: Severity values for symptoms.
-**symptom_precaution.csv: Precautionary steps for each disease.
+- **Training.csv / Testing.csv: Contain symptom-disease mappings.
+- **symptom_Description.csv: Disease descriptions.
+- **symptom_severity.csv: Severity values for symptoms.
+- **symptom_precaution.csv: Precautionary steps for each disease.
 ---
